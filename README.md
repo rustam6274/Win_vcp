@@ -1,1 +1,1 @@
-Оконное приложение на C# для работы с макетной платой STM32F3DISCOVERY (ссылка на прошивку https://github.com/rustam6274/STM32F3DISCOVERY)
+Оконное приложение на C# для работы с макетной платой STM32F3DISCOVERY (ссылка на прошивку микроконтроллера https://github.com/rustam6274/STM32F3DISCOVERY, драйвер USB https://github.com/rustam6274/VB_STM32_DRIVER)
